@@ -96,6 +96,7 @@ spec:
                 <body>
                     <div class="container">
                         <h1>Hello Vinayak Pujare! 👋</h1>
+                        <p>Working as Senior System Administrator.</p>
                         <p>Welcome to your Interactive DevOps Server.</p>
                         <div class="spinner"></div>
                         <p style="font-size: 1rem; color: #a0a0a0;">Powered by Apache on Kubernetes (Kind Cluster)</p>
